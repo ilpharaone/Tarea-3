@@ -1,0 +1,16 @@
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Tarea 3\obj\Debug\net5.0\Tarea 3.csproj.AssemblyReference.cache
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Tarea 3\obj\Debug\net5.0\Tarea 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Tarea 3\obj\Debug\net5.0\Tarea 3.AssemblyInfoInputs.cache
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Tarea 3\obj\Debug\net5.0\Tarea 3.AssemblyInfo.cs
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Tarea 3\obj\Debug\net5.0\Tarea 3.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Tarea 3\bin\Debug\net5.0\Tarea 3.exe
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Tarea 3\bin\Debug\net5.0\Tarea 3.deps.json
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Tarea 3\bin\Debug\net5.0\Tarea 3.runtimeconfig.json
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Tarea 3\bin\Debug\net5.0\Tarea 3.runtimeconfig.dev.json
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Tarea 3\bin\Debug\net5.0\Tarea 3.dll
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Tarea 3\bin\Debug\net5.0\ref\Tarea 3.dll
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Tarea 3\bin\Debug\net5.0\Tarea 3.pdb
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Tarea 3\obj\Debug\net5.0\Tarea 3.dll
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Tarea 3\obj\Debug\net5.0\ref\Tarea 3.dll
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Tarea 3\obj\Debug\net5.0\Tarea 3.pdb
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Tarea 3\obj\Debug\net5.0\Tarea 3.genruntimeconfig.cache
